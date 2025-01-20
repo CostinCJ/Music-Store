@@ -1,0 +1,130 @@
+#loginscris h1{
+    font-family: sans-serif;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#categorii{
+    margin-bottom: 100px;
+}
+
+#mail{
+    margin-top: 16px;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+#inputemail{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    border: 1px solid #8a8a8a;
+    border-radius: 4px;
+    background-color: #fff;
+    max-width: 100%;
+    color: #1c1c1c;
+    transition: background-color 100ms;
+}
+
+#textemail{
+   height: 38px;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.11px;
+    padding: 9px 16px; 
+    border: none;
+    border-radius: 4px;
+    width: 100%;
+    font-family: 'Open Sans',Verdana,Tahoma,Arial,Helvetica,sans-serif;
+    -webkit-appearance: none;
+}
+
+input{
+    font-size: 100%;
+    margin: 0;
+    vertical-align: baseline;
+}
+
+#inputpassword{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    border: 1px solid #8a8a8a;
+    border-radius: 4px;
+    background-color: #fff;
+    max-width: 100%;
+    color: #1c1c1c;
+    transition: background-color 100ms;
+
+    margin-top: 20px;
+}
+
+#labelcheck{
+    font-family: sans-serif;
+}
+
+#rememberme{
+    margin-top: 20px;
+
+}
+
+#loginsubmit{
+    display: flex;
+    justify-content: center;
+    margin: 24px 0;
+}
+
+#loginform{
+    margin-right: 700px;
+    margin-left: 700px;
+}
+
+#butonlogin{
+    background-color: #000;
+    border-color: #000;
+    color: #fff;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    border: 1px solid #000;
+    cursor: pointer;
+    font-weight: 700;
+    padding-bottom: 2px;
+    text-decoration: none;
+    vertical-align: bottom;
+    font-family:sans-serif;
+    height: 40px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 16px;
+    letter-spacing: -0.32px;
+}
+
+#scrisregister{
+    margin-top: 28px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#loginregister{
+    display: flex;
+    justify-content: center;
+}
+
+#butonregister{
+    color: #1c1c1c;
+    background: none;
+    border: none;
+    z-index: 0;
+    position: relative;
+    margin: 0 16px;
+    padding: 8px 0 16px;
+    font-size: 18px;
+    line-height: 16px;
+    letter-spacing: -0.26px;
+    font-weight: 400;
+    border-radius: 0;
+    font-family: sans-serif;
+}

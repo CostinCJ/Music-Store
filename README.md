@@ -77,7 +77,7 @@ On the registration page, the user enters the account details they wish to creat
 
 On the page below, all products from a specific category are retrieved from the database and displayed, showing their names and images.
 
-![image](https://github.com/user-attachments/assets/79a74f62-6cb6-45bf-9fae-7ec2ef14f333)
+![image](https://github.com/user-attachments/assets/d30423c4-48d6-4a59-981e-2cee034beb42)
 
 ![image](https://github.com/user-attachments/assets/e758be86-79a7-44fd-a1e6-2ba987b381ec)
 

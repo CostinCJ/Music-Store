@@ -1,10 +1,10 @@
 # Music-Store
 This is one of my first projects: a website for managing an online music store. It dynamically retrieves all the data from a database, ensuring an interactive and up-to-date user experience. The project was built using PHP, HTML, CSS, and SQL, allowing me to develop essential programming skills. Created during my high school years, this project was a great learning experience that helped me understand web development, database management, and the integration of front-end and back-end technologies.
 
-Problem Statement
+Problem Statement: 
 The goal was to create an online store with the theme “Musical Minds,” which would allow an administrator to make changes to the product database, while also enabling users to view products and add them to a shopping cart.
 
-Specification of Requirements for "Musical Minds"
+Specification of Requirements for "Musical Minds": 
 The online application "Musical Minds" is designed to cater to music enthusiasts by offering a user-friendly and functional e-commerce platform. The website focuses on both aesthetics and utility, ensuring smooth navigation and accessibility to information. Below are the key functionalities for users and administrators:
 User Features
 View products categorized by type (e.g., instruments, accessories, etc.).
@@ -19,9 +19,7 @@ Add new products to the database, organized by category.
 Remove existing products from the database as needed.
 The design emphasizes simplicity and clarity, avoiding unnecessary complexity to ensure a seamless user experience. The site also prioritizes quick access to essential features like product browsing, account management, and customer support. By integrating these functionalities, "Musical Minds" aims to provide a comprehensive platform for music lovers while enabling efficient management for administrators.
 
-The application is created 80% in HTML combined with PHP for database updates, with the remaining 20% done in CSS to give the page a more appealing appearance. Additionally, I have also used SQL (MySQL) and JavaScript.
-
-User Guide
+User Guide:
 The online store "Musical Minds" is centered around databases, with the entire website being generated based on data extracted from the database.
 On the homepage, users can view product categories, the best-selling products, and discounted products.
 
